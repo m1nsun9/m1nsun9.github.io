@@ -15,8 +15,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/m0ntyirl'}
-- {icon: 'facebook', link: 'https://www.facebook.com/iminnielee'}
+- {icon: 'facebook', link: 'https://www.facebook.com/m0ntyirl'}
 - {icon: 'instagram', link: 'https://instagram.com/m0ntyirl'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/m1nsun9'}
 - {icon: 'envelope', link: 'm1nsun9.lee@gmail.com'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
